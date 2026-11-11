@@ -18,7 +18,6 @@ The project is not a full game with missions or progression. It is a playable te
 * **Manual Drift System:** Drift is activated by player input. While drifting, the movement behavior switches to a dedicated arcade drift mode instead of using the normal driving simulation.
 * **Physics Interaction:** The car can collide with and push physics props placed around the level.
 * **Camera Stabilization:** The follow camera is designed to remain readable while ignoring unwanted physics jitter from the car body.
-* **Editor Automation:** Custom Unreal Editor Python scripts are used to convert placed mesh actors into reusable physics Blueprint props.
 * **Blueprint Asset Setup:** Blueprints are mainly used for mesh assignment, VFX, tuning, and level setup, while the core gameplay logic remains in C++.
 
 ## External Assets Notice
